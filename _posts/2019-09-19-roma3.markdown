@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "hallo ROM - Ada und Alfredo"
+date:   2019-09-19
+categories: jekyll update rome essen
+---
+Hallo ROM vh - wir waren im Ada
