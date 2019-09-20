@@ -30,7 +30,8 @@ twitter_username: vholdi
 github_username:  vholdener
 
 # Build settings
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
