@@ -2,6 +2,5 @@
 layout: post
 title:  "Essen bei Ada und Alfredo"
 date:   2019-09-18
-categories: jekyll update rome essen
 ---
-Wir waren essen im 'Alferdo e Ada' in Rom. Wunderbar einfach und gut! ![tavola](/assets/img/20190918_alfredoeada.jpg)
+Wir waren essen im 'Alfredo e Ada'. Wunderbar einfach und gut.  ![tavola]({{site.baseurl}}/assets/img/20190918_alfredoeada.jpg)

@@ -1,7 +1,0 @@
----
-layout: post
-title:  "hallo ROM"
-date:   2019-09-19
-categories: jekyll update rome
----
-Hallo ROM vh
