@@ -7,3 +7,5 @@ gem 'wdm', '>=0.1.0'
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # gem "rails"
+
+gem "jekyll", "~> 3.8"

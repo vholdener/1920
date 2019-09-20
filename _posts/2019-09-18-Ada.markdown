@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Essen bei Ada und Alfredo"
+title:  "Essen bei Ada und Alfredo, ohne Bild"
 date:   2019-09-18
 ---
-Wir waren essen im 'Alfredo e Ada'. Wunderbar einfach und gut.  ![tavola]({{baseurl}}/assets/img/20190918_alfredoeada.jpg)
+Wir waren essen im 'Alfredo e Ada'. Wunderbar einfach und gut. Hier haett ich gern ein Bild...  ![tavola]({{site.baseurl}}/assets/img/20190918_alfredoeada.jpg)
