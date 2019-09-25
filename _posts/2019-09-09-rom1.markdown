@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "'Liebes Tagebuch, soviele Dinge müsste ich dir erzählen'"
+date:   2019-09-09
+featured-image: /assets/imgfeat/rom1.jpg
+---
+
+Es ist wunderbar Rom so langsam zu entdecken.
+Wenn wir alle bereit sind und Lust haben, ziehen wir los. Meist haben wir eine Sehenswürdigkeit als Ziel. Es kann aber auch ein Quartier, ein Park oder ein Spielplatz sein.
+Mit jedem Tag und jeder Reise erschliesst sich uns die Stadt ein bisschen mehr. Weisse Flecken bekommen Farbe und verbinden sich mit anderen Punkten die wir bereits kennen. Einzelne Ecken werden einem vertraut.
+Den grossen Touristenstörmen versuchen wir etwas auszuweichen. Aber auch sie gehören zu dieser einmaligen Stadt.
+
+![rom01]({{site.baseurl}}/assets/img/04_rom1/rom1_01.jpg)
+
+![rom02]({{site.baseurl}}/assets/img/04_rom1/rom1_02.jpg)
+
+![rom03]({{site.baseurl}}/assets/img/04_rom1/rom1_03.jpg)
+
+![rom04]({{site.baseurl}}/assets/img/04_rom1/rom1_04.jpg)
+
+![rom05]({{site.baseurl}}/assets/img/04_rom1/rom1_05.jpg)
+
+![rom06]({{site.baseurl}}/assets/img/04_rom1/rom1_06.jpg)
+
+**"Liebes Tagebuch, soviele Dinge müsste ich dir erzählen."**
+
+![rom07]({{site.baseurl}}/assets/img/04_rom1/rom1_07.jpg)
+
+![rom08]({{site.baseurl}}/assets/img/04_rom1/rom1_08.jpg)
+
+![rom09]({{site.baseurl}}/assets/img/04_rom1/rom1_09.jpg)
+
+![rom10]({{site.baseurl}}/assets/img/04_rom1/rom1_10.jpg)
+
+![rom11]({{site.baseurl}}/assets/img/04_rom1/rom1_11.jpg)
+
+![rom12]({{site.baseurl}}/assets/img/04_rom1/rom1_12.jpg)

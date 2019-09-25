@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Via Francesco Sivori 11"
+date:   2019-09-11
+featured-image: /assets/imgfeat/app.jpg
+---
+
+Das Quartier 'Trionfale' (quartiere XIV) ist für einen Monat unser Zuhause. Unsere Wohnung liegt nahe der Metro 'Cipro'. Wir wohnen im sechsten Stock. Wir fühlen uns schnell zuhause hier.
+Die Wohnung haben wir via [spotahome](https://www.spotahome.com/) gefunden und gebucht.
+
+![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190915_Cipro1.jpg)
+
+![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190905_App2.jpg)
+
+![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190902_App5.jpg)
+
+![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190902_App4.jpg)
+
+![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190916_Bad.jpg)
+
+![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190902_App3.jpg)
+
+![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190911_Treppenhaus.jpg)
+
+Unsere Wohnung hat verschiedene Steinböden. Hier eine Auswahl:
+
+![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190916_Boden1.jpg)
+
+![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190916_Boden2.jpg)
+
+![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190916_Boden3.jpg)
+
+![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190916_Boden4.jpg)
+
+![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190916_Boden5.jpg)

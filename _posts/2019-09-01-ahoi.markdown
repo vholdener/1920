@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "ahoi!"
+date:   2019-09-01
+featured-image: /assets/imgfeat/ahoi.jpg
+---
+
+Heute ging es los.
+Fünf Taschen, eine Familie.
+Mit dem Zug von Zürich nach Rom, mit 300 km/h.
+
+![schaeracher]({{site.baseurl}}/assets/img/01_ahoi/20190901_start01.jpg)
+
+![mlvam]({{site.baseurl}}/assets/img/01_ahoi/20190901_start02.jpg)
+
+![kiensastenwies]({{site.baseurl}}/assets/img/01_ahoi/20190901_start03.jpg)

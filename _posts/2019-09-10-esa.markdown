@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Phiweek Bootcamp"
+date:   2019-09-10
+featured-image: /assets/imgfeat/esa.jpg
+---
+
+Vom 6. bis 10. September habe ich (V) an einem ["Bootcamp" der esa](http://phiweekbootcamp.space/#primary) teilgenommen. Die ersten drei Tage waren wir in einer Villa der [PI School](https://picampus-school.com/) im Süd-Osten Roms untergebracht.
+Dort versuchten wir für einen europäischen Energieversorger ein Hilfsmittel für die Waldbrandproblematik und ein Hilfsmittel für das Management der einwachsenden Vegetation in seine Infrastrukturen zu erarbeiten.
+
+Der [offizielle Beschrieb](http://phiweekbootcamp.space/) war:   
+>The PhiWeek Bootcamp is hosted by the European Space Agency (ESA) in the framework of Phi-Week. It is an intensive 5-day event, which guides you through the design sprint process, answering critical questions in the design, prototyping, and testing ideas relating to Earth Observation.   
+>The goal is for 40 pre-selected participants from around the world to work in teams to respond to a specific industry challenge. The solutions will be tested with a set of users and then presented to a jury that awards prizes to the best prototype, which has the potential to be commercialised.   
+  
+Es waren fünf intensive Tage, die letzten beiden waren bei der ESA in Frascati.
+Unser Team kam leider nicht aufs Podest. Es war aber definitiv eine sehr interessante Erfahrung für mich.
+
+![bootcamp]({{site.baseurl}}/assets/img/03_esa/bootcamp_00.jpg)
+
+![bootcamp]({{site.baseurl}}/assets/img/03_esa/bootcamp_01.jpg)
+
+![bootcamp]({{site.baseurl}}/assets/img/03_esa/bootcamp_02.jpg)
+
+![bootcamp]({{site.baseurl}}/assets/img/03_esa/bootcamp_03.jpg)
+
+![bootcamp]({{site.baseurl}}/assets/img/03_esa/bootcamp_04.jpg)
+
+![bootcamp]({{site.baseurl}}/assets/img/03_esa/bootcamp_05.jpg)
+
+![bootcamp]({{site.baseurl}}/assets/img/03_esa/bootcamp_06.jpg)
+
+![bootcamp]({{site.baseurl}}/assets/img/03_esa/bootcamp_07.jpg)
+
+Den Pool haben wir nicht genutzt...
+
+![bootcamp]({{site.baseurl}}/assets/img/03_esa/bootcamp_notimeforpooltime.jpg)
+
+![bootcamp]({{site.baseurl}}/assets/img/03_esa/bootcamp_08.jpg)
+
+![bootcamp]({{site.baseurl}}/assets/img/03_esa/bootcamp_09.jpg)
+
+![bootcamp]({{site.baseurl}}/assets/img/03_esa/bootcamp_10.jpg)
+
+![bootcamp]({{site.baseurl}}/assets/img/03_esa/bootcamp_pizza.jpg)
+
+Das obligate Selfie bei der ESA in Frascati habe ich natürlich auch gemacht :-)
+
+![bootcamp]({{site.baseurl}}/assets/img/03_esa/bootcamp_end.jpg)
