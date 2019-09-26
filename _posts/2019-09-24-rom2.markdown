@@ -43,7 +43,7 @@ featured-image: /assets/imgfeat/rom2.jpg
 
 ![rom2_17]({{site.baseurl}}/assets/img/07_rom2/rom2_17.jpg)
 
-![rom2_18_jpg]({{site.baseurl}}/assets/img/07_rom2/rom2_18.jpg)
+![rom2_18_jpg]({{site.baseurl}}/assets/img/07_rom2/rom21_18.jpg)
 
 ![rom2_204]({{site.baseurl}}/assets/img/07_rom2/rom2_204.jpg)
 
