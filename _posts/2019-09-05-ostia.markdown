@@ -6,7 +6,9 @@ featured-image: /assets/imgfeat/ostia.jpg
 ---
 
 Mit unserer Monatskarte für das städtische Römer ÖV-Netz kommen wir bis ans Meer. Es reicht aber auch ein einfaches Metrobillet für 1.50 Euro.
-So legten wir bereits am vierten Tag einen einen Tag am Meer ein. Wir haben uns zwei Liegestühle und einen Sonnenschirm im 'stabilimento balneare' geleistet.
+So legten wir bereits am vierten Tag einen Tag am Meer ein. Wir haben uns zwei Liegestühle und einen Sonnenschirm im 'stabilimento balneare' geleistet.
+
+![ostia0]({{site.baseurl}}/assets/img/02_ostia/ostia_00.jpg)
 
 ![ostia3]({{site.baseurl}}/assets/img/02_ostia/ostia_03.jpg)
 
@@ -15,3 +17,5 @@ So legten wir bereits am vierten Tag einen einen Tag am Meer ein. Wir haben uns 
 ![ostia1]({{site.baseurl}}/assets/img/02_ostia/ostia_01.jpg)
 
 ![ostia4]({{site.baseurl}}/assets/img/02_ostia/ostia_04.jpg)
+
+![ostia5]({{site.baseurl}}/assets/img/02_ostia/ostia_05.jpg)

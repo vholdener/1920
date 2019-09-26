@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "'Liebes Tagebuch, soviele Dinge müsste ich dir erzählen'"
+title:  "'Liebes Tagebuch, so viele Dinge müsste ich dir erzählen'"
 date:   2019-09-09
 featured-image: /assets/imgfeat/rom1.jpg
 ---
@@ -22,7 +22,7 @@ Den grossen Touristenstörmen versuchen wir etwas auszuweichen. Aber auch sie ge
 
 ![rom06]({{site.baseurl}}/assets/img/04_rom1/rom1_06.jpg)
 
-**"Liebes Tagebuch, soviele Dinge müsste ich dir erzählen."**
+**"Liebes Tagebuch, so viele Dinge müsste ich dir erzählen."**
 
 ![rom07]({{site.baseurl}}/assets/img/04_rom1/rom1_07.jpg)
 
@@ -35,3 +35,9 @@ Den grossen Touristenstörmen versuchen wir etwas auszuweichen. Aber auch sie ge
 ![rom11]({{site.baseurl}}/assets/img/04_rom1/rom1_11.jpg)
 
 ![rom12]({{site.baseurl}}/assets/img/04_rom1/rom1_12.jpg)
+
+![rom13]({{site.baseurl}}/assets/img/04_rom1/rom1_13.jpg)
+
+![rom14]({{site.baseurl}}/assets/img/04_rom1/rom1_14.jpg)
+
+![rom15]({{site.baseurl}}/assets/img/04_rom1/rom1_15.jpg)

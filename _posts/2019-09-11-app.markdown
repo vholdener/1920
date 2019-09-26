@@ -8,28 +8,30 @@ featured-image: /assets/imgfeat/app.jpg
 Das Quartier 'Trionfale' (quartiere XIV) ist für einen Monat unser Zuhause. Unsere Wohnung liegt nahe der Metro 'Cipro'. Wir wohnen im sechsten Stock. Wir fühlen uns schnell zuhause hier.
 Die Wohnung haben wir via [spotahome](https://www.spotahome.com/) gefunden und gebucht.
 
-![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190915_Cipro1.jpg)
-
-![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190905_App2.jpg)
-
-![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190902_App5.jpg)
-
-![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190902_App4.jpg)
-
-![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190916_Bad.jpg)
-
-![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190902_App3.jpg)
+![Cipro1]({{site.baseurl}}/assets/img/05_app/20190915_Cipro1.jpg)
 
 ![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190911_Treppenhaus.jpg)
 
-Unsere Wohnung hat verschiedene Steinböden. Hier eine Auswahl:
+![App2]({{site.baseurl}}/assets/img/05_app/20190905_App2.jpg)
 
-![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190916_Boden1.jpg)
+![App5]({{site.baseurl}}/assets/img/05_app/20190902_App5.jpg)
 
-![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190916_Boden2.jpg)
+![App4]({{site.baseurl}}/assets/img/05_app/20190902_App4.jpg)
 
-![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190916_Boden3.jpg)
+![Bad]({{site.baseurl}}/assets/img/05_app/20190916_Bad.jpg)
 
-![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190916_Boden4.jpg)
+![App3]({{site.baseurl}}/assets/img/05_app/20190902_App3.jpg)
 
-![treppenhaus]({{site.baseurl}}/assets/img/05_app/20190916_Boden5.jpg)
+![App7]({{site.baseurl}}/assets/img/05_app/20190902_App7.jpg)
+
+Steinböden in unserer Wohnung:
+
+![Boden1]({{site.baseurl}}/assets/img/05_app/20190916_Boden1.jpg)
+
+![Boden2]({{site.baseurl}}/assets/img/05_app/20190916_Boden2.jpg)
+
+![Boden3]({{site.baseurl}}/assets/img/05_app/20190916_Boden3.jpg)
+
+![Boden4]({{site.baseurl}}/assets/img/05_app/20190916_Boden4.jpg)
+
+![Boden5]({{site.baseurl}}/assets/img/05_app/20190916_Boden5.jpg)
