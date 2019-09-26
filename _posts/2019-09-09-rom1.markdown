@@ -38,6 +38,6 @@ Den grossen Touristenstörmen versuchen wir etwas auszuweichen. Aber auch sie ge
 
 ![rom13]({{site.baseurl}}/assets/img/04_rom1/rom1_13.jpg)
 
-![rom14]({{site.baseurl}}/assets/img/04_rom1/rom1_14.jpg)
+![rom14_jpg]({{site.baseurl}}/assets/img/04_rom1/rom1_14.jpg)
 
-![rom15]({{site.baseurl}}/assets/img/04_rom1/rom1_15.jpg)
+![rom15_jpg]({{site.baseurl}}/assets/img/04_rom1/rom1_15.jpg)
