@@ -5,7 +5,7 @@ date:   2019-09-10
 featured-image: /assets/imgfeat/esa.jpg
 ---
 
-Vom 6. bis 10. September habe ich (V) an einem ["Bootcamp" der esa](http://phiweekbootcamp.space/#primary) teilgenommen. Die ersten drei Tage waren wir in einer Villa der [PI School](https://picampus-school.com/) im Süd-Osten Roms untergebracht.
+Vom 6. bis 10. September habe ich (V) an einem ["Bootcamp" der ESA](http://phiweekbootcamp.space/#primary) teilgenommen. Die ersten drei Tage waren wir in einer Villa der [PI School](https://picampus-school.com/) im Süd-Osten Roms untergebracht.
 Dort versuchten wir für einen europäischen Energieversorger ein Hilfsmittel für die Waldbrandproblematik und ein Hilfsmittel für das Management der einwachsenden Vegetation in seine Infrastrukturen zu erarbeiten.
 
 Der [offizielle Beschrieb](http://phiweekbootcamp.space/) war:   
