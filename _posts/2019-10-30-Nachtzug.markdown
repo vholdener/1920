@@ -19,7 +19,7 @@ Cha Am
 
 ![ChaAm3]({{site.baseurl}}/assets/img/11_Nachtzug/ChaAm_03.jpg)
 
-![ChaAm4]({{site.baseurl}}/assets/img/11_Nachtzug/ChaAm_04.jpg)
+![ChaAm4]({{site.baseurl}}/assets/img/11_Nachtzug/ChaAm_004.jpg)
 
 ![ChaAm5]({{site.baseurl}}/assets/img/11_Nachtzug/ChaAm_05.jpg)
 
@@ -35,8 +35,6 @@ Bangkok
 ![BKK1]({{site.baseurl}}/assets/img/11_Nachtzug/BKK_01.jpg)
 
 ![BKK2]({{site.baseurl}}/assets/img/11_Nachtzug/BKK_02.jpg)
-
-![BKK3]({{site.baseurl}}/assets/img/11_Nachtzug/BKK_03.jpg)
 
 ![BKK4]({{site.baseurl}}/assets/img/11_Nachtzug/BKK_04.jpg)
 
