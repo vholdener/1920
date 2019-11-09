@@ -13,6 +13,8 @@ Die Vorfreude auf die Stadt im Norden - Chiang Mai - war gross. Dazu gehörte au
 
 Cha Am
 
+![ChaAm0]({{site.baseurl}}/assets/img/11_Nachtzug/ChaAm_00_neu.jpg)
+
 ![ChaAm1]({{site.baseurl}}/assets/img/11_Nachtzug/ChaAm_01.jpg)
 
 ![ChaAm2]({{site.baseurl}}/assets/img/11_Nachtzug/ChaAm_02.jpg)
@@ -25,9 +27,19 @@ Cha Am
 
 ![ChaAm6]({{site.baseurl}}/assets/img/11_Nachtzug/ChaAm_06.jpg)
 
-![ChaAm7]({{site.baseurl}}/assets/img/11_Nachtzug/ChaAm_07.jpg)
+![ChaAm7]({{site.baseurl}}/assets/img/11_Nachtzug/ChaAm_07_neu.jpg)
 
 ![ChaAm8]({{site.baseurl}}/assets/img/11_Nachtzug/ChaAm_08.jpg)
+
+![ChaAm9]({{site.baseurl}}/assets/img/11_Nachtzug/ChaAm_09_neu.jpg)
+
+![ChaAm10]({{site.baseurl}}/assets/img/11_Nachtzug/ChaAm_10_neu.jpg)
+
+![ChaAm11]({{site.baseurl}}/assets/img/11_Nachtzug/ChaAm_11_neu.jpg)
+
+![ChaAm12]({{site.baseurl}}/assets/img/11_Nachtzug/ChaAm_12_neu.jpg)
+
+![ChaAm13]({{site.baseurl}}/assets/img/11_Nachtzug/ChaAm_13_neu.jpg)
 
 
 Bangkok
@@ -67,7 +79,7 @@ Nachtzug nach Chiang Mai
 
 ![Nachtzug5]({{site.baseurl}}/assets/img/11_Nachtzug/Nachtzug_05.jpg)
 
-![Nachtzug6]({{site.baseurl}}/assets/img/11_Nachtzug/Nachtzug_06.jpg)
+
 
 
 
