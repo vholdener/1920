@@ -1,0 +1,31 @@
+---
+layout: post
+title:  Singapur
+date:   2019-12-12
+featured-image: /assets/imgfeat/singapur.jpg
+--- 
+Singapur liess uns immer wieder Staunen und Kopfschütteln.
+Hier werden endlos und endlose Einkaufszentren, Hochhäuser, Indoorparks und künstliche Welten erschaffen.
+Naturlandschaften unter Dach und künstliche Wasserfälle gehören zum Alltag.
+
+![Singapur]({{site.baseurl}}/assets/img/15_Singapur/Singapur_01.jpg)
+
+![Singapur]({{site.baseurl}}/assets/img/15_Singapur/Singapur_02.jpg)
+
+![Singapur]({{site.baseurl}}/assets/img/15_Singapur/Singapur_03.jpg)
+
+![Singapur]({{site.baseurl}}/assets/img/15_Singapur/Singapur_04.jpg)
+
+![Singapur]({{site.baseurl}}/assets/img/15_Singapur/Singapur_05.jpg)
+
+![Singapur]({{site.baseurl}}/assets/img/15_Singapur/Singapur_06.jpg)
+ 
+
+
+
+
+
+
+
+
+
