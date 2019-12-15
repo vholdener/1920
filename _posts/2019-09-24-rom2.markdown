@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "drei Wochen Rom"
+title:  "Drei Wochen Rom"
 date:   2019-09-24
 featured-image: /assets/imgfeat/rom2.jpg
 --- 

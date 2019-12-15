@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "wir sind jetzt ฝรั่ง "
+title:  "Wir sind jetzt ฝรั่ง "
 date:   2019-10-11
 featured-image: /assets/imgfeat/cha-am.jpg
 --- 
