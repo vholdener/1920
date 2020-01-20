@@ -36,6 +36,8 @@ Malcom
 
 ![Daylesford]({{site.baseurl}}/assets/img/19_Daylesford/Malcom.jpg)
 
+![Daylesford]({{site.baseurl}}/assets/img/19_Daylesford/work_01.jpg)
+
 ![Daylesford]({{site.baseurl}}/assets/img/19_Daylesford/outdoor_09.jpg)
 
 ![Daylesford]({{site.baseurl}}/assets/img/19_Daylesford/outdoor_03.jpg)
