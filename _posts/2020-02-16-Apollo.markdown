@@ -1,0 +1,83 @@
+---
+layout: post
+title:  1600 km
+date:   2020-02-16
+featured-image: /assets/imgfeat/Apollo.jpg
+--- 
+
+Nach 16 Tagen im Büsli sind wir in Adelaide angekommen.
+Wir haben 1600 km zurück gelegt. Das entspricht etwa der Strecke von Hamburg nach Rom.
+Es war unser australischer Roadtrip - Great Ocean Road, Grampians, Limestone Coast uns Fleurie Peninsula.
+Dabei haben wir nur einen Zehntel des australischen Kontinents umrundet.
+Die Schweiz hätte gut 180 Mal in Australien platz. Soviel zu den Grössenverhältnissen...
+Was wir gesehen haben, hat uns sehr gefallen. Hier ein paar Bilder davon:
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Grampians_01.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Grampians_02.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Grampians_03.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Grampians_10.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Grampians_04.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Grampians_11.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Grampians_06.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Grampians_08.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Grampians_09.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/MountainGoat.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Pine.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Meer_04.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Meer_01.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Meer_02.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Meer_06.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Wald_04.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Meer_07.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Toggel.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Saltcreek.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Wald_01.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Wald_05.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Blowhole_06.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Blowhole_05.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Blume.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Camping_01.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Camping_02.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Worldmap.jpg)
+
+![Apollo]({{site.baseurl}}/assets/img/22_Apollo/Wald_06.jpg)
+
+Bis Ende Februar sind wir in Melbourne. Dann fliegen wir nach Neuseeland.
+
+
+
+
+
+
+
+
+
+
+
+
