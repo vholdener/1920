@@ -26,15 +26,15 @@ Es ist ein magischer Ort der uns fasziniert.
 
 ![borgomagico]({{site.baseurl}}/assets/img/31_BorgoMagico/Wasser.jpg)
 
-![borgomagico]({{site.baseurl}}/assets/img/31_BorgoMagico/ruine_01.jpg)
+![borgomagico]({{site.baseurl}}/assets/img/31_BorgoMagico/ruine_1.jpg)
 
 ![borgomagico]({{site.baseurl}}/assets/img/31_BorgoMagico/borgo.jpg)
 
-![borgomagico]({{site.baseurl}}/assets/img/31_BorgoMagico/piazetta.jpg)
+![borgomagico]({{site.baseurl}}/assets/img/31_BorgoMagico/piazetta_1.jpg)
 
 ![borgomagico]({{site.baseurl}}/assets/img/31_BorgoMagico/kueche.jpg)
 
-![borgomagico]({{site.baseurl}}/assets/img/31_BorgoMagico/schafe.jpg)
+![borgomagico]({{site.baseurl}}/assets/img/31_BorgoMagico/schafe_1.jpg)
 
 ![borgomagico]({{site.baseurl}}/assets/img/31_BorgoMagico/dreier.jpg)
 
