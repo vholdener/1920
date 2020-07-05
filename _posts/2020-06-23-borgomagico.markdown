@@ -38,6 +38,8 @@ Es ist ein magischer Ort der uns fasziniert.
 
 ![borgomagico]({{site.baseurl}}/assets/img/31_BorgoMagico/dreier.jpg)
 
+![borgomagico]({{site.baseurl}}/assets/img/31_BorgoMagico/gelati.jpg)
+
 ![borgomagico]({{site.baseurl}}/assets/img/31_BorgoMagico/Merz.jpg)
 
 ![borgomagico]({{site.baseurl}}/assets/img/31_BorgoMagico/fontana.jpg)
