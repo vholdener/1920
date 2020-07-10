@@ -1,0 +1,13 @@
+---
+layout: post
+title:  l'estate italiana
+date:   2020-07-10
+featured-image: /assets/imgfeat/Cefalu.jpg
+---
+
+Eine Woche Strandferien in Cefalù - feiner Sand, blaues Wasser, viel Sonne - l'estate italiana.  
+
+![badolato]({{site.baseurl}}/assets/img/33_Cefalu/Cefalu_mit_Airbnb.jpg)
+
+Das Mosaik auf der Übersichtsseite haben wir im schönen Dom von Cefalù (12.Jh.) fotografiert.
+Morgen fahren wir nach Palermo.
