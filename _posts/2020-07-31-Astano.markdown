@@ -1,0 +1,28 @@
+---
+layout: post
+title:  Ankommen im Malcantone
+date:   2020-07-31
+featured-image: /assets/imgfeat/Astano.jpg
+---
+
+Die letzten beiden Juliwochen waren wir im Tessin, im Ferienhaus der Verwandtschaft.
+Es war ein erstes Ankommen. Es gab Würschtli im Teig.
+Im Migros wurden wir nach der Cumuluskarte gefragt, das Gemüse lag in Reih und Glied geordnet.
+Das Postauto fuhr nach Fahrplan. Wir haben es auch ein bisschen genossen.  
+Mit dem Ende unserer Reise in Sichtweite, schwelgten wir schon in Erlebnissen der vergangenen Monate.
+
+![Astano]({{site.baseurl}}/assets/img/35_Astano/Astano_01.jpg)
+
+![Astano]({{site.baseurl}}/assets/img/35_Astano/Astano_03.jpg)
+
+![Astano]({{site.baseurl}}/assets/img/35_Astano/Astano_04.jpg)
+
+![Astano]({{site.baseurl}}/assets/img/35_Astano/Astano_02.jpg)
+
+![Astano]({{site.baseurl}}/assets/img/35_Astano/Astano_05.jpg)
+
+![Astano]({{site.baseurl}}/assets/img/35_Astano/Astano_07.jpg)
+
+![Astano]({{site.baseurl}}/assets/img/35_Astano/Astano_06.jpg)
+
+Morgen am 1. August fahren wir heim nach Zürich. 
