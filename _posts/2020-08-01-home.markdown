@@ -1,0 +1,17 @@
+---
+layout: post
+title:  home
+date:   2020-08-01
+featured-image: /assets/imgfeat/home.jpg
+---
+
+Nach 11 Monaten sind wir zurück.
+Wir sind sehr dankbar für alles was wir erleben durften und dass wir gesund sind!
+Eine einmalige Zeit geht für uns zu Ende.  
+Wir freuen uns auf das was kommt, unsere Familien, unsere Freunde und Freundinnen.
+
+![home]({{site.baseurl}}/assets/img/36_home/home_20200802.jpg)
+
+![home]({{site.baseurl}}/assets/img/36_home/home_20190901.jpg)
+vor 335 Tagen, am 1. September 2019, ging es an gleicher Stelle los.
+
