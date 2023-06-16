@@ -1,0 +1,57 @@
+---
+layout: post
+title:  Hamburg
+date:   2023-06-16
+featured-image: /assets/imgfeat/hamburg.jpg
+---
+
+Hamburg war der erste Ort auf unserer Sommerreise. Der Nachtzug brachte uns im Schlaf dort hin. Der Himmel scheint hier grösser, die Möven kreischen, der Fisch klemmt im "Rundstück" (Brötchen) und der Wind scheint immer etwas Gischt im Gepäck zu haben.
+Die Stadt und ihre unterschiedlichen Quartiere haben uns gefallen: Hafencity/Speicherstadt, Altstadt, Schanze, Altona, Ottensen, Blankenese. Hier finden alle etwas, das ihnen gefällt.
+Morgen fahren wir nach Dänemark.
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/ticket.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/wall.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/hamburg_ml.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/karte.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/hamburg1.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/haus1.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/elbphilharmonie.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/buelow.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/china_shipping.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/bismarck.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/plaza_family.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/schanze1.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/v_altona_bhf.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/marta.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/meininger.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/sbahn.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/blankenese.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/teigfabrik3.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/kohlrabi.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/plaza.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/kafi.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/elbtunnel.jpg)
+
+![home]({{site.baseurl}}/assets/img/40_Hamburg/fritz.jpg)
+
