@@ -1,0 +1,47 @@
+---
+layout: post
+title:  Aalborg
+date:   2023-06-18
+featured-image: /assets/imgfeat/Aalborg.jpg
+---
+
+70km von der Nordspitze Dänemarks entfernt liegt die Stadt Aalborg. Sie liegt am Limfjord und gehört zu Jütland. Hier wohnen wir in einer herzigen Wohnung.
+Den Garten unserer AirB&B-Hosts dürfen wir mitbenutzen, und mit Coco dem Hund haben wir auch Bekannschaft gemacht.
+Die Stimmung an diesem heissen und schönen Wochenende war sehr relaxed. Die Aalborger geniessen die langen Tage ausgiebig (um 23.00 ist es noch hell).
+Wir haben es den Locals nachgemacht: Essen vor der Streetfood Køkkenfabrikken und chillen im Vestre Fjordpark (Freibad Parkanalge).
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/Aalborg_TB.jpg)
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/Aalborg_03.jpg)
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/Aalborg_04.jpg)
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/Vestby1.jpg)
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/Vestby3.jpg)
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/Vestby4.jpg)
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/Vestby5.jpg)
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/coco3.jpg)
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/Vestby7.jpg)
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/Hafen.jpg)
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/Krabben.jpg)
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/fijordpark1.jpg)
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/fijordpark2.jpg)
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/fijordpark4.jpg)
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/Eagle.jpg)
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/Altstadt1.jpg)
+
+![home]({{site.baseurl}}/assets/img/41_Aalborg/Altstadt2.jpg)
+
+
