@@ -1,0 +1,51 @@
+---
+layout: post
+title:  Havila
+date:   2023-06-23
+featured-image: /assets/imgfeat/Havila.jpg
+---
+
+Vor zwei Tagen sind wir in Bergen an Bord der Havila Castor gegangen [(aktuelle Position der Castor)](https://www.barentswatch.no/arcticinfo/ais/257752000). Wir durften einen Teil der weltbekannten Fjordlandschaften Norwegens vom Schiff aus geniessen. Es war sehr schön und eindrücklich.
+Morgen Abend werden wir in Svolvær (Lofoten) wieder von Bord gehen.
+
+Unser "Postschiff" mit Baujahr 2020 bietet viel Luxus für eine komfortable Fahrt entlang der nowegischen Küste und Fjorde.
+Die Havila Schiffe verfügen über Batterien mit einem Gewicht von über 80 Tonnen. Dadurch ist auch ein elektrischer Antrieb der Schiffsmotoren möglich.
+Der Jacuzzi auf Deck 8 wird mit Abwärme geheizt und Buffets gibt es keine (Brotscheiben müssen einzeln bestellt werden).
+Die [Havila-Kreuzfahrten](https://www.havilavoyages.com) können ihre Reisen "greenwashen" und im Geirangerfjord wird kein Russ mehr aus den Kaminen geblasen.
+Havila versucht den grossen CO2-Ausstoss von Schiffsreisen zu verkleinern. Gemäss ihren eigenen Aussagen schaffen sie das mit -25% gegenüber klassischen Schiffsreisen.
+
+![home]({{site.baseurl}}/assets/img/42_Havila/havila_kystruten.jpg)
+
+![home]({{site.baseurl}}/assets/img/42_Havila/fjord2.jpg)
+
+![home]({{site.baseurl}}/assets/img/42_Havila/isbjorn.jpg)
+
+![home]({{site.baseurl}}/assets/img/42_Havila/window1.jpg)
+
+![home]({{site.baseurl}}/assets/img/42_Havila/fjord4.jpg)
+
+![home]({{site.baseurl}}/assets/img/42_Havila/barentswatch.png)
+
+![home]({{site.baseurl}}/assets/img/42_Havila/bow.jpg)
+
+![home]({{site.baseurl}}/assets/img/42_Havila/fjord3.jpg)
+
+![home]({{site.baseurl}}/assets/img/42_Havila/window2.jpg)
+
+![home]({{site.baseurl}}/assets/img/42_Havila/post.jpg)
+
+![home]({{site.baseurl}}/assets/img/42_Havila/Havila.jpg)
+
+![home]({{site.baseurl}}/assets/img/42_Havila/seven_sisters.jpg)
+
+![home]({{site.baseurl}}/assets/img/42_Havila/family.jpg)
+
+![home]({{site.baseurl}}/assets/img/42_Havila/lighthouse.jpg)
+
+![home]({{site.baseurl}}/assets/img/42_Havila/trondheim.jpg)
+
+![home]({{site.baseurl}}/assets/img/42_Havila/geiranger.jpg)
+
+Start in Bergen am längsten Tag des Jahres (21. Juni):
+
+![home]({{site.baseurl}}/assets/img/42_Havila/Bergen_gif.gif)
