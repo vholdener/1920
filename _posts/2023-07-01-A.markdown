@@ -1,0 +1,50 @@
+---
+layout: post
+title:  Å 
+date:   2023-07-01
+featured-image: /assets/imgfeat/A.jpg
+---
+
+Å (ausgesprochen "O") ist das letzte Dorf am südwestlichen Zipfel der Lofoten.
+Wir wohnen in der Jugi die in einem alten Handelsmannshaus aus dem Jahr 1868 untergrbracht ist. Von hier aus machen wir Ausflüge in die beeindruckenden Landschaften.
+Morgen gehts zurück aufs Festland.
+
+![home]({{site.baseurl}}/assets/img/44_A/01.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/02.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/03.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/03_1.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/04_2.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/05.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/06.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/07.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/08.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/09.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/10.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/12.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/13.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/14.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/15.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/16.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/17.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/18.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/19.jpg)
+
+![home]({{site.baseurl}}/assets/img/44_A/20.jpg)
