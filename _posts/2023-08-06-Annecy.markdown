@@ -1,0 +1,28 @@
+---
+layout: post
+title:  Annecy
+date:   2023-08-06
+featured-image: /assets/imgfeat/Annecy.jpg
+---
+
+Ein bisschen Strandfeeling haben wir uns alle noch gewünscht. Und so sind wir im hübschen Annecy südlich von Genf gelandet.
+
+![home]({{site.baseurl}}/assets/img/49_Annecy/01.jpg)
+
+![home]({{site.baseurl}}/assets/img/49_Annecy/02.jpg)
+
+![home]({{site.baseurl}}/assets/img/49_Annecy/03.jpg)
+
+![home]({{site.baseurl}}/assets/img/49_Annecy/04.jpg)
+
+![home]({{site.baseurl}}/assets/img/49_Annecy/05.jpg)
+
+![home]({{site.baseurl}}/assets/img/49_Annecy/06.jpg)
+
+![home]({{site.baseurl}}/assets/img/49_Annecy/07.jpg)
+
+Seit gestern sind wir wieder in Zürich. Es war eine tolle Reise!
+
+
+
+

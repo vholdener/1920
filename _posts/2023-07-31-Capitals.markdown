@@ -1,0 +1,63 @@
+---
+layout: post
+title:  Capitals
+date:   2023-07-31
+featured-image: /assets/imgfeat/Capitals.jpg
+---
+
+Wir liessen uns in Edinburgh und London wieder auf das Grossstadtleben ein.
+Auch hier waren wir auf den Spuren von Harry Potter und J.K. Rowling.
+'Fish and Chips', Fussball und Bier im Pub am Nachmittag gab es auch. Bubble Teas, Museen und Kartenspielen gehörten genauso dazu.
+
+Edinburgh:
+![home]({{site.baseurl}}/assets/img/48_Capitals/Edi_01.jpg)
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/Edi_02.jpg)
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/Edi_03.jpg)
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/Edi_04.jpg)
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/Edi_05.jpg)
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/Edi_06.jpg)
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/Edi_07.jpg)
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/Edi_08.jpg)
+Tea cake (Tunnock's) by Fiona Watson.
+
+London:
+![home]({{site.baseurl}}/assets/img/48_Capitals/London_01.jpg)
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/London_02.jpg)
+St. Paul's Cathedral
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/London_03.jpg)
+Kings Cross Station
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/London_04.jpg)
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/London_05.jpg)
+Tate Modern
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/London_05_01.jpg)
+Bankside - The Turbine Hall 1995-6, Anthony Eyton
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/London_06.jpg)
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/London_07.jpg)
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/London_08.jpg)
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/London_wet.jpg)
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/London_09.jpg)
+
+![home]({{site.baseurl}}/assets/img/48_Capitals/London_10.jpg)
+
+Weil unsere Unterkunft in Brighton wegen eines Brandes gecancelt wurde, reisten wir am 1. August mit Umweg über Lille und Paris nach Annecy. In Paris reichte es für einen Spaziergang der Seine entlang und für ein feines Mittagessen in der Brasserie.
+
+
+
+
