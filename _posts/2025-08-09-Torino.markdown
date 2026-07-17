@@ -36,6 +36,10 @@ Mondovi
 
 ![home]({{site.baseurl}}/assets/img/51_Torino/L.jpg)
 
+![home]({{site.baseurl}}/assets/img/51_Torino/L0.jpg)
+
+![home]({{site.baseurl}}/assets/img/51_Torino/L01.jpg)
+
 ![home]({{site.baseurl}}/assets/img/51_Torino/L1.jpg)
 
 ![home]({{site.baseurl}}/assets/img/51_Torino/M.jpg)
