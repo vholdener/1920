@@ -7,47 +7,78 @@ featured-image: /assets/imgfeat/Belgien_Hallerbos.jpg
 
 Belgien hatte für uns schon immer etwas Besonderes. Meine Grossmutter Germaine aka Mary ist gebürtige Belgierin, aufgewachsen in Leuven und Antwerpen.
 Meine Mutter und Tanten machten immer wieder Reisen nach Antwerpen, und kamen mit Filet Américain und dem dunklen süssen Brot mit Hagelzucker nach Hause.
-Wir besuchten Knokke, wo meine Grosseltern mit ihren Töchtern Sommerferien verbrachten. Die Mauern des Elternhauses von Mary in Leuven stehen - nach unseren Recherchen vor Ort - leider nicht mehr. 
+
+Wir besuchten Knokke, wo meine Grosseltern mit ihren Töchtern Sommerferien verbrachten. Die Hausnummer des Elternhauses von Mary in Leuven fanden wir vor Ort leider nicht mehr.
+
 Übrigens: die erste Auslandreise als frisch gebackene Eltern führte uns 2012 an Silvester mit unserer Tochter nach: Antwerpen. 
 
- Reiseroute: via Paris nach Antwerpen - Heist - Hallerbos - Dinant - Waulsort - Leuven - Antwerpen
-
-
 ![home]({{site.baseurl}}/assets/img/50_Belgien/01_eurostarantwerpen.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/02_Train.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/02_uHotel_Antwerpen.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/03_RichtungMeer.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/04_Heist.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/05_Heist.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/06_Heist.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/07_Knokke.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/08_bier.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/08_Heist.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/09_Heist.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/11_Heist.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/12_Heist.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/13_Heist.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/14_Hallerbos.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/15_Hallerbos.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/16_Hallerbos.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/16_map_waulsort.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/16_Waulsort.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/17_Waulsort.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/18_food.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/19_waulsort.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/20_Waulsort.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/21_candys.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/22_food.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/23_leuven.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/24_leuven2.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/25_leuven0.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/26_tintin0.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/27_tintin1.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/28_on_the_walk.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/29_end3_leuven1.jpg)
+
 ![home]({{site.baseurl}}/assets/img/50_Belgien/00-end1.jpg)
 
-
+via Paris nach Antwerpen - Heist - Hallerbos - Dinant - Waulsort - Leuven - Antwerpen
 
 
 
