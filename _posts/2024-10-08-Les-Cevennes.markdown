@@ -129,8 +129,6 @@ Viaduc de Millau
 
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/K1.jpg)
 
-![home]({{site.baseurl}}/assets/img/52_Cevennes/K2.jpg)
-
 Montlaur Aveyron
 
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/K3.jpg)
@@ -142,6 +140,8 @@ Montlaur Aveyron
 Montpellier
 
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/L1.jpg)
+
+![home]({{site.baseurl}}/assets/img/52_Cevennes/K2.jpg)
 
 27.07 - 10.08.2024
 
