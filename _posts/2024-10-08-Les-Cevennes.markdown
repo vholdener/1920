@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mit Mocca und Félix in den Cevennen
+title:  Mit Mocca und Felix in den Cevennen
 date:   2024-08-10
 featured-image: /assets/imgfeat/cevennes.jpg
 ---
