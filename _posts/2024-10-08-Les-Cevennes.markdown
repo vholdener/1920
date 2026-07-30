@@ -8,6 +8,7 @@ featured-image: /assets/imgfeat/cevennes.jpg
 Eigentlich wollten wir wieder Veloferien machen (wie 2022 entlang der Donau von Passau nach Wien). Aus den Draht-Eseln wurden aber echte Esel, und wir waren mega gespannt auf dieses Abenteuer in den Cevennen. Es wurden unvergessliche Ferien in einer einmaligen Landschaft. Die beiden Esel Mocca und Félix haben wir in unsere Herzen geschlossen, auch wenn sie sture Köpfe sein konnten. Pour nous, les Cévennes avec les gorges du Tarn sont une adresse à ne pas manquer pour des vacances en France!
 
 Montpellier
+
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/A1.jpg)
 
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/A2.jpg)
@@ -21,6 +22,7 @@ Montpellier
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/A6.jpg)
 
 Florac
+
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/B1.jpg)
 
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/B3.jpg)
@@ -28,9 +30,11 @@ Florac
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/C1.jpg)
 
 Grotte de Trabuc
+
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/C2.jpg)
 
 Sainte-Enimie
+
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/D1.jpg)
 
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/D2.jpg)
@@ -48,6 +52,7 @@ Sainte-Enimie
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/D9.jpg)
 
 Ribevenès Meyrueis
+
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/E1.jpg)
 
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/E2.jpg)
@@ -121,11 +126,13 @@ Ribevenès Meyrueis
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/J6.jpg)
 
 Viaduc de Millau
+
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/K1.jpg)
 
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/K2.jpg)
 
 Montlaur Aveyron
+
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/K3.jpg)
 
 ![home]({{site.baseurl}}/assets/img/52_Cevennes/K4.jpg)
